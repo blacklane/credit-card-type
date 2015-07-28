@@ -1,6 +1,8 @@
 Credit Card Type [![Build Status](https://travis-ci.org/braintree/credit-card-type.svg)](https://travis-ci.org/braintree/credit-card-type) [![npm version](https://badge.fury.io/js/credit-card-type.svg)](http://badge.fury.io/js/credit-card-type)
 ================
 
+[![Join the chat at https://gitter.im/blacklane/credit-card-type](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/blacklane/credit-card-type?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Credit Card Type provides a useful utility method for determining a credit card type from both fully qualified and partial numbers. This is not a validation library but rather a smaller component to help you build your own validation or UI library.
 
 This library is designed for type-as-you-go detection (supports partial numbers) and is written in CommonJS so you can use it in Node, io.js, and the [browser](http://browserify.org).
